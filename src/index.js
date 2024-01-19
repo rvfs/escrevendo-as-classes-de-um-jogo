@@ -22,5 +22,5 @@ class hero{
     }
 }
 
-let myHero = new hero ("Zé do Pão", 60, "ninja")
+let myHero = new hero ("Zé do Pão", 60, "mago")
 myHero.attack()
