@@ -14,5 +14,4 @@
     |guerreiro | espada|
     |monge | artes maciais|
     |ninja | shuriken|
-    | |
 
