@@ -1,6 +1,6 @@
 # Escrevendo as Classes de um Jogo
 ### Objetivos🎯
-* Criação de uma classe genérica que represente um **herói** de uma aventura com as seguintes propriedades:
+* Criação de uma classe genérica que representa o **herói** de uma aventura com as seguintes propriedades:
     * Nome
     * Idade
     * Tipo 
